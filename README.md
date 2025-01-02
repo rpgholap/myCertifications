@@ -20,7 +20,7 @@ This repository contains certificates that demonstrate my expertise and commitme
 ## 🔗 Highlights
 
 ### **Cloud Computing**
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](./Cloud_Computing/AWS_Academy_Graduate.pdf)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](./AWS_Academy_Graduate_AWS_Academy_Cloud_Foundations.pdf)
 - [Coursera AWS Cloud Technical Essentials](./Cloud_Computing/Coursera_AWS_Cloud_Technical_Essentials.pdf)
 
 ### **Data Analytics**
